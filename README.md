@@ -12,7 +12,6 @@ The main objective of this Spam Classifier is to classify Spam Emails from Non-S
 </ul>
 
 ### Libraries used:
-
 <ul>
   <li>bs4</li>
   <li>Email</li>

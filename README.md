@@ -12,5 +12,14 @@ The main objective of this Spam Classifier is to classify Spam Emails from Non-S
 </ul>
 
 ### Libraries used:
-Pandas, Sklearn, NLTK, Matplotlib,Seaborn,Numpy,bs4,Email
+<ul>
+  <li>bs4</li>
+  <li>Email</li>
+  <li>Matplotlib</li>
+  <li>NLTK</li>
+  <li>Numpy</li>
+  <li>Pandas</li>
+  <li>Seaborn</li>
+  <li>Sklearn</li>
+</ul>
 
